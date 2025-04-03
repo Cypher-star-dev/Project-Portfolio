@@ -1,5 +1,6 @@
 About Me
 I'm Gikonyo Omoga, a learner at Power Learn Project. My interest in coding began after exploring cybersecurity, and I've began building my skills in databases, Python, and HTML. I'm driven by a thirst for knowledge and a desire to protect online data.
+
 •	About Section: Learn more about my background and what drives me.
 •	Education: View my educational history, including institutions like Busy Bee, Makini, and Power Learn Project.
 •	Programming Languages: Discover the programming languages I'm currently learning, which includes Python, MySQL Database, and HTML.
