@@ -21,16 +21,28 @@ Technologies Used
 •	CSS: For styling and layout.
 
 •	Vercel: For hosting and deployment.
+
 How to View
+
 1.	Visit the live site at https://project-portfolio-topaz.vercel.app/ 
+
 2.	Explore the different sections to learn more about me and my projects.
+
 Future Plans
+
 •	Continue learning and expanding my coding skills.
+
 •	Add more projects to the portfolio as I progress.
+
 •	Explore advanced topics in cybersecurity.
+
 Contact Information
-•	Phone: +254-796-399-018
-•	Email: omogagikonyo31@gmail.com
+
+•	Phone: Number is in the html code.
+
+•	Email: Email is in the html code.
+
 •	GitHub: https://github.com/Cypher-star-dev
-•	Twitter: https://twitter.com/your-twitter-handle
+
+•	Twitter: https://twitter.com/
 
